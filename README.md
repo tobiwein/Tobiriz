@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Tobiriz
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on Vue.js projects
-- 📫 How to reach me contact@tobiasweinlich.com
-
-<!---
-Tobiriz/Tobiriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Tobiqw
+- I’m interested in development and learning
+- 
+- You can reach me here: contact@tobiasweinlich.com
