@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Tobias
-- I’m interested in development and learning
-- 
 - You can reach me here: contact@tobiasweinlich.com
